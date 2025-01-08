@@ -1,5 +1,5 @@
 # CryptoSmith
-![DeFi to the People](path/to/defi-to-the-people-image.png)  
+![DeFi to the People](https://cryptosmith.fra1.cdn.digitaloceanspaces.com/Promo-LinkedIn-LinkedIn%20link%20post.jpeg)  
 **"From Glorious Innovation to the People’s Financial Freedom"**  
 Crafting tools and knowledge to empower individuals in the world of decentralized finance (DeFi).
 
@@ -7,7 +7,6 @@ Crafting tools and knowledge to empower individuals in the world of decentralize
 
 ## About
 Welcome to **CryptoSmith**, where we bring the power of cryptocurrency and decentralized finance to the people.  
-![DeFi to the People](https://cryptosmith.fra1.cdn.digitaloceanspaces.com/android-chrome-192x192.png)  
 With decades of expertise in technology, blockchain, and financial innovation, our mission is to forge a decentralized future where financial freedom belongs to everyone.
 
 ---
@@ -18,7 +17,7 @@ With decades of expertise in technology, blockchain, and financial innovation, o
 ---
 
 ## Featured Projects
-### **[The Champagne Room](https://github.com/YourUsername/ChampagneRoom)**
+### **[The Champagne Room](https://github.com/cryptosmithio/champagneroom-app)**
 A secure, anonymous platform connecting content creators with consumers using cryptocurrency.  
 - **Features**: Complete privacy, escrow payments, and dispute resolution systems.  
 - Hosted on GitHub: [View Repository](https://github.com/cryptosmithio/champagneroom-app)
@@ -26,6 +25,7 @@ A secure, anonymous platform connecting content creators with consumers using cr
 ---
 
 ## Join Us
-![DeFi to the People](path/to/defi-to-the-people-image.png)  
 At CryptoSmith, we believe collaboration drives innovation. Whether you're a developer, investor, or enthusiast, join us in building a decentralized future.  
 Visit [CryptoSmith.io](https://cryptosmith.io) to learn more.
+
+![DeFi to the People](https://cryptosmith.fra1.cdn.digitaloceanspaces.com/android-chrome-192x192.png)  
