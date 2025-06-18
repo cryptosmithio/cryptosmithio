@@ -1,5 +1,5 @@
 # CryptoSmith
-![DeFi to the People](https://cryptosmith.fra1.cdn.digitaloceanspaces.com/logo%20black%201224%D1%85800.png)  
+![DeFi to the People](https://cryptosmith.fra1.cdn.digitaloceanspaces.com/logo%20black%20647%D1%85423.png)  
 **"From Glorious Innovation to the People’s Financial Freedom"**  
 Crafting tools and knowledge to empower individuals in the world of decentralized finance (DeFi).
 
