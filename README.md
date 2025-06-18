@@ -22,8 +22,7 @@ With decades of expertise in technology, blockchain, and financial innovation, o
   <img src="https://static.champagneroom.app/assets/logo-horizontal-tr.png" width="150"/>
 </p>
 A secure, anonymous platform connecting content creators with consumers using cryptocurrency.  
-- **Features**: Complete privacy, escrow payments, and dispute resolution systems.  
-- Hosted on GitHub: [View Repository](https://github.com/cryptosmithio/champagneroom-app)
+Complete privacy, escrow payments, and dispute resolution systems.  
 
 ---
 
