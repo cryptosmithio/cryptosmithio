@@ -30,5 +30,3 @@ A secure, anonymous platform connecting content creators with consumers using cr
 ## Join Us
 At CryptoSmith, we believe collaboration drives innovation. Whether you're a developer, investor, or enthusiast, join us in building a decentralized future.  
 Visit [CryptoSmith.io](https://cryptosmith.io) to learn more.
-
-![DeFi to the People](https://cryptosmith.fra1.cdn.digitaloceanspaces.com/android-chrome-192x192.png)  
